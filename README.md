@@ -1,2 +1,5 @@
-# auto-print
-Monitors selected folders and prints any files discovered.
+# Auto-Print
+Monitor selected folders and print new files automatically.
+
+# test
+test test test
